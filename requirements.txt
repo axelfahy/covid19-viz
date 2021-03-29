@@ -103,7 +103,7 @@ pycups==1.9.74
 pycurl==7.43.0.5
 pydocstyle==5.0.2
 pyflakes==2.1.1
-Pygments==2.6.1
+Pygments==2.7.4
 PyGObject==3.36.0
 pylint==2.4.4
 pyparsing==2.4.6
