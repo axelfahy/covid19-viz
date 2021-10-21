@@ -7,7 +7,7 @@ arandr==0.1.10
 Archey3==0.4.1
 astroid==2.3.3
 attrs==19.3.0
-Babel==2.8.0
+Babel==2.9.1
 backcall==0.1.0
 Beaker==1.11.0
 beautifulsoup4==4.8.2
