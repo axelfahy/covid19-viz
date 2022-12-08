@@ -14,7 +14,7 @@ beautifulsoup4==4.8.2
 bleach==3.1.4
 btrfsutil==1.1.1
 CacheControl==0.12.6
-certifi==2019.11.28
+certifi==2022.12.7
 chardet==3.0.4
 clipster==2.0.2
 colorama==0.4.3
